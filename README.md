@@ -1,4 +1,4 @@
-### 欢迎使用GirlAndLove——galgame管理工具
+### 欢迎使用GalIsland——galgame管理工具
 ✨ 功能特点
 
 🎮 游戏库管理 - 添加、编辑、删除游戏，支持多种排序和筛选方式
@@ -34,7 +34,7 @@
 <img width="1400" height="900" alt="Image" src="https://github.com/user-attachments/assets/75214f66-badf-41c5-b1a1-fcbb70555169" />
 
 **特殊说明**
-如抓取不到信息，或抓取错误信息，可手动调整。
+如抓取不到信息，或抓取错误信息，可手动调整。从 ggbases 获取中文标签需要科学上网。
 
 ### Debug和赞助
 右键点击头像或左键点击左上角标题可显示debug邮箱和赞助信息。
