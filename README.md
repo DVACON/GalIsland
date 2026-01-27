@@ -20,7 +20,7 @@
 
 **导入游戏**
 <img width="1400" height="900" alt="Image" src="https://github.com/user-attachments/assets/9c9e5372-b6a8-4aa7-963e-e0928f60e71c" />
-
+导入游戏时，请输入正确的游戏名称，尽量使用日文，英文，部分游戏可以中文搜索。点击重新搜索封面可以选择相关游戏。
 
 **游戏详情**
 <img width="1400" height="900" alt="Image" src="https://github.com/user-attachments/assets/77abefcb-c19a-4612-8ecb-c782c55218fb" />
@@ -34,7 +34,7 @@
 <img width="1400" height="900" alt="Image" src="https://github.com/user-attachments/assets/75214f66-badf-41c5-b1a1-fcbb70555169" />
 
 **特殊说明**
-如抓取不到信息，或抓取错误信息，可手动调整。从 ggbases 获取中文标签需要科学上网。
+如抓取不到信息，或抓取错误信息，可手动调整。从 ggbases 获取中文标签需要科学上网。游戏封面与截图会保存到resources/data路径下，下载速度取决于网速。
 
 ### Debug和赞助
 右键点击头像或左键点击左上角标题可显示debug邮箱和赞助信息。
